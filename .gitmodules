@@ -1,0 +1,6 @@
+[submodule "Eventmanagementsystem"]
+	path = Eventmanagementsystem
+	url = https://github.com/Tamannamangla/Eventmanagementsystem.git
+[submodule "eventhub_project"]
+	path = eventhub_project
+	url = https://github.com/Tamannamangla/eventhub_project.git
